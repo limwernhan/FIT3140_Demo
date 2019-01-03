@@ -16,3 +16,6 @@ It can be done via these simple steps
 3. Update the local master with remote master (via git pull)
 4. Merge the branch into the local master (via git merge)
 5. Push local master to origin master (via git push)
+
+## demo to student
+bla bla bla
